@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ColoredTriangle", "ColoredTriangle\", "{FE4B97D0-98E3-4D09-96D6-881456AFA876}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55546"
+		Debug.AspNetCompiler.PhysicalPath = "ColoredTriangle\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55546\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55546"
+		Release.AspNetCompiler.PhysicalPath = "ColoredTriangle\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55546\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55546"
+		SlnRelativePath = "ColoredTriangle\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4B97D0-98E3-4D09-96D6-881456AFA876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4B97D0-98E3-4D09-96D6-881456AFA876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DD9E5FC-BE45-4171-ABEE-0338DE5D01D6}
+	EndGlobalSection
+EndGlobal
